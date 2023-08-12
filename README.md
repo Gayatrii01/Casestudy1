@@ -1,2 +1,2 @@
-# Casestudy1
+# Casestudy
 Supermart Grocery Sales Data Analysis
