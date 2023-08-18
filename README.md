@@ -1,2 +1,2 @@
 # Casestudy
-Supermart Grocery Sales Data Analysis
+Data Science case studies and assignments!
